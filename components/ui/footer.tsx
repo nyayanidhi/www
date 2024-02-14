@@ -40,7 +40,7 @@ export default function Footer() {
             </ul>
           </div>
 
-          {/* 5th block */}
+          {/* 5th block
           <div className="sm:col-span-6 md:col-span-3 lg:col-span-4">
             <h6 className="text-gray-800 font-medium mb-2">Contact us</h6>
             <p className="text-sm text-gray-600 mb-4">Get the latest news and articles to your inbox every month.</p>
@@ -55,11 +55,11 @@ export default function Footer() {
                     </button>
                   </div>
                   {/* Success message */}
-                  {/* <p className="mt-2 text-green-600 text-sm">Thanks for subscribing!</p> */}
+                  {/* <p className="mt-2 text-green-600 text-sm">Thanks for subscribing!</p> 
                 </div>
               </div>
             </form>
-          </div>
+          </div> */}
 
         </div>
 

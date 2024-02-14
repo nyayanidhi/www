@@ -43,7 +43,7 @@ export default function Newsletter() {
                 {/* CTA form */}
                 <form className="w-full lg:w-auto">
                   <div className="flex flex-col sm:flex-row max-w-xs mx-auto sm:max-w-md lg:mx-0">
-                    <a className="btn text-white bg-blue-600 hover:bg-blue-700 shadow" href="#0">Contact us</a>
+                    <a className="btn text-white bg-blue-600 hover:bg-blue-700 shadow" href="mailto:nyayanidhi18@gmail.com">Contact us</a>
                   </div>å
                 </form>
               </div>
