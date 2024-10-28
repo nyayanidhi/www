@@ -36,7 +36,7 @@ export default function Header() {
           <nav className="hidden md:flex md:grow">
             {/* Desktop sign in links */}
             <ul className="flex grow justify-end flex-wrap items-center">
-              <li>
+              <li className="hidden">
                 <Link href="#" className="btn-sm text-gray-600 bg-gray-300 hover:bg-gray-800 ml-3 pointer-events-none">
                   <span>Sign in</span>
                   <svg className="w-3 h-3 fill-current text-gray-600 shrink-0 ml-2 -mr-1" viewBox="0 0 12 12" xmlns="http://www.w3.org/2000/svg">
